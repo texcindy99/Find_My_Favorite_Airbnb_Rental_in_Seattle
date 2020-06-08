@@ -14,11 +14,10 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 This is my first project for Udacity data science nano degree course. I was interestested in using Seattle Airbnb data to better understand:
 
-1. How other developers suggested breaking into the field (what education to pursue)?
-2. What factors about an individual contributed to salary?
-3. How bias played a role in the suggestions of developers for how to break into the field?
-4. What was the state of bootcamps for assisting individuals with breaking into developer roles?
-5. How were bootcamps assisting with increasing diversity in tech careers?
+1. Is there an area in Seattle where there are more choices of rentals with relatively lower price?
+2. Can I predict the price of Seattle Airbnb rentals?
+3. Which Seattle area has most rentals with good reviews in recent two years?
+4. Which Airbnb rentals are recommended in downtown Seattle?
 
 ## File Descriptions <a name="files"></a>
 
@@ -28,7 +27,7 @@ I don't include any Seattle Airbnb data here since the data can be downloaded au
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/p/218ff759e735/edit).
+The main findings of the code can be found at the post available [here](https://medium.com/@weixind/how-do-i-find-my-favorite-airbnb-rental-in-seattle-218ff759e735).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
