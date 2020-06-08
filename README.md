@@ -23,7 +23,7 @@ This is my first project for Udacity data science nano degree course. I was inte
 
 There is one notebook available here to showcase work related to the above questions. The notebook is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
 
-I don't include any Seattle Airbnb data here since the data can be downloaded automatically in the notebook. Note that I am using the data compiled by 23 April, 2020. If the data is updated on the Airbnb [website] (http://insideairbnb.com/get-the-data.html), you will get some different results by running this notebook.
+I don't include any Seattle Airbnb data here since the data can be downloaded automatically in the notebook. Note that I am using the data compiled by 23 April, 2020. If the data is updated on the Airbnb [website](http://insideairbnb.com/get-the-data.html), you will get some different results by running this notebook.
 
 ## Results<a name="results"></a>
 
